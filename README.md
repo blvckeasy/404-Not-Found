@@ -17,6 +17,10 @@ Run and enjoy:
   npm start
 ```
 
+# Test
+
+Send this request via terminal
+
 ```bash
   curl localhost:3000/
 ```
